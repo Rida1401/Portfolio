@@ -1,0 +1,29 @@
+# Rida Najeeb — Computer Science Graduate & Aspiring Full-Stack Developer
+
+## About
+Rida Najeeb is a Computer Science Engineering graduate based in Hyderabad, India. She is an aspiring full-stack and cloud-focused developer with a strong foundation in web technologies, databases, and cloud fundamentals. She enjoys building practical, scalable web applications and continuously learning modern development tools and platforms.
+
+## Skills
+- **Programming Languages**: Java, Python, C, JavaScript, SQL
+- **Web Technologies**: HTML5, CSS3, React, Vite, Tailwind CSS, Bootstrap
+- **Databases**: MySQL, MongoDB (introductory), SQLite
+- **Cloud & DevOps**: AWS (EC2, S3, IAM, CloudWatch basics), Vercel
+- **Tools**: Git, GitHub, Postman, Figma, VS Code
+
+## Projects
+- **NebulaVault — Secure Cloud Storage Platform**: A cloud-based file storage system built using Flask and AWS S3, featuring secure file handling, authentication, and structured metadata management.
+- **VisionMark AI — Attendance System**: An AI-powered facial recognition system that automates attendance marking using Python, OpenCV, and TensorFlow..
+- **Cloud Infrastructure Dashboard**: A responsive React-based dashboard that visualizes AWS EC2 and S3 metrics using CloudWatch APIs.
+- **Personal Portfolio Website**: A responsive portfolio showcasing projects and skills, deployed using modern frontend tooling.
+- **Business Website (Ongoing)**: A real-world business website for a medical laser equipment company, built using React, Vite, and Tailwind CSS.
+
+
+## Contact
+- **Email**: nrida.22@outlook.com
+- **GitHub**: https://github.com/Rida1401
+- **LinkedIn**: https://www.linkedin.com/in/rida-n-87311a367
+
+
+## Content Structure
+- `/`: Main landing page with Hero, About, Skills, Experience, Projects, and Contact sections.
+- `/resume`: Direct link to view/download resume.
