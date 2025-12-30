@@ -5,7 +5,7 @@ export const projectsData = [
     description:
       "A secure cloud storage platform designed to explore real-world file management, access control, and data security. Users can upload, manage, and retrieve files through a clean interface backed by AWS services.",
     github_link: "https://github.com/Rida1401/nebula-vault",
-    demo: "https://rida1401.github.io/portfolio/",
+    demo: "",
     tech: ["AWS S3", "AWS EC2", "IAM", "Python (Flask)", "MySQL"],
   },
   {
@@ -47,7 +47,7 @@ export const projectsData = [
     description:
       "My personal portfolio showcasing projects, skills, and experience with a minimal design and smooth interactions, deployed for high availability.",
     github_link: "https://github.com/Rida1401",
-    demo: "https://rida1401.github.io/portfolio/",
+    demo: "https://rn-portfolio.vercel.app/",
     tech: ["React", "HTML", "CSS", "AWS S3", "CloudFront"],
   },
 ];
