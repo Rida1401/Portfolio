@@ -31,7 +31,7 @@ export function generatePersonStructuredData() {
       `https://github.com/${selfData.socials_username?.github}`,
       `https://linkedin.com/in/${selfData.socials_username?.linkedin}`,
     ],
-    url: "https://rida1401.github.io/portfolio/",
+    url: "https://rn-portfolio.vercel.app/",
     description: selfData.bio,
     knowsAbout: skills,
   };
@@ -42,7 +42,7 @@ export function generateWebsiteStructuredData() {
     "@context": "https://schema.org",
     "@type": "WebSite",
     name: "Rida Najeeb - Portfolio",
-    url: "https://rida1401.github.io/portfolio/",
+    url: "https://rn-portfolio.vercel.app/",
     description:
       "Rida Najeeb’s portfolio featuring projects in React, cloud technologies, and full-stack web development.",
     author: {
@@ -67,8 +67,8 @@ export function generateOrganizationStructuredData() {
     "@context": "https://schema.org",
     "@type": "Organization",
     name: selfData.name,
-    url: "https://rida1401.github.io/portfolio/",
-    logo: "https://rida1401.github.io/portfolio/images/logo.png",
+    url: "https://rn-portfolio.vercel.app/",
+    logo: "https://rn-portfolio.vercel.app/images/logo.png",
     description: selfData.bio,
     ...(selfData.name && { founder: {
       "@type": "Person",
@@ -88,7 +88,7 @@ export function generateResumeStructuredData() {
     name: "Rida Najeeb Resume",
     description:
       "Professional resume of Rida Najeeb — Computer Science graduate and aspiring Full-Stack & Cloud-focused Developer.",
-    url: "https://rida1401.github.io/portfolio/resume",
+    url: "https://rn-portfolio.vercel.app/resume",
     author: {
       "@type": "Person",
       name: selfData.name,
@@ -111,9 +111,9 @@ export function generateResumeStructuredData() {
     },
     dateModified: new Date().toISOString(),
     fileFormat: "application/pdf",
-    contentUrl: "https://rida1401.github.io/portfolio/docs/Rida-Najeeb-Resume.pdf",
+    contentUrl: "https://rn-portfolio.vercel.app/docs/Rida-Najeeb-Resume.pdf",
     downloadUrl:
-      "https://rida1401.github.io/portfolio/docs/Rida-Najeeb-Resume.pdf",
+      "https://rn-portfolio.vercel.app/docs/Rida-Najeeb-Resume.pdf",
     keywords: [
       "Software Developer",
       "Full Stack Developer",

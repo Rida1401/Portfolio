@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/api", "/private"],
       },
     ],
-    sitemap: "https://rida1401.github.io/portfolio/sitemap.xml",
+    sitemap: "https://rn-portfolio.vercel.app/sitemap.xml",
   };
 }

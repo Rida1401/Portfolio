@@ -8,7 +8,7 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "rida1401.github.io",
+        hostname: "rn-portfolio.vercel.app",
       },
     ],
   },

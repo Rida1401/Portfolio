@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: "Resume - Rida Najeeb",
     description:
       "View and download Rida Najeeb's professional resume featuring her experience and skills as a student developer.",
-    url: "https://rida1401.github.io/portfolio/resume",
+    url: "https://rn-portfolio.vercel.app/resume",
     siteName: "Rida Najeeb",
   },
   twitter: {

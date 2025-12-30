@@ -48,7 +48,7 @@ export function EmailTemplate({
             <Row>
               <Column style={{ width: "40px" }}>
                 <Img
-                  src="https://rida1401.github.io/portfolio/images/logo.png"
+                  src="https://rn-portfolio.vercel.app/images/logo.png"
                   alt="RN"
                   width="40"
                   height="40"

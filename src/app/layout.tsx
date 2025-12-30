@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   authors: [
     {
       name: "Rida Najeeb",
-      url: "https://rida1401.github.io/portfolio/",
+      url: "https://rn-portfolio.vercel.app/",
     },
   ],
   creator: "Rida Najeeb",
@@ -29,12 +29,12 @@ export const metadata: Metadata = {
   category: "Portfolio",
   classification: "Software Development",
   keywords: keywords,
-  metadataBase: new URL("https://rida1401.github.io/portfolio/"),
+  metadataBase: new URL("https://rn-portfolio.vercel.app/"),
 
   alternates: {
-    canonical: "https://rida1401.github.io/portfolio/",
+    canonical: "https://rn-portfolio.vercel.app/",
     languages: {
-      "en-US": "https://rida1401.github.io/portfolio/",
+      "en-US": "https://rn-portfolio.vercel.app/",
     },
   },
 
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
 
   verification: {
     other: {
-      me: ["mailto:nrida.22@outlook.com"],
+      me: ["mailto:najeebrida14@gmail.com"],
     },
   },
 
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
     title: "Rida Najeeb | Full-Stack & Cloud-Focused Developer",
     description:
       "Explore Rida Najeeb’s portfolio featuring projects in React, Next.js, cloud platforms, and full-stack development. Discover modern web applications and hands-on technical work.",
-    url: "https://rida1401.github.io/portfolio/",
+    url: "https://rn-portfolio.vercel.app/",
     siteName: "Rida Najeeb",
     locale: "en_US",
     type: "website",
