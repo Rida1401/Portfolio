@@ -9,22 +9,6 @@ export const projectsData = [
     tech: ["AWS S3", "AWS EC2", "IAM", "Python (Flask)", "MySQL"],
   },
   {
-    name: "CloudHelpDesk",
-    status: "Ongoing",
-    description:
-      "A support ticketing system inspired by real IT and cloud support workflows. It allows users to raise issues with priority and category, while admins manage assignments, statuses, and resolutions.",
-    github_link: "", // repo to be added
-    tech: [
-      "React",
-      "Vite",
-      "Tailwind CSS",
-      "Python (Flask)",
-      "MySQL",
-      "AWS EC2",
-      "CloudWatch",
-    ],
-  },
-  {
     name: "Medical Laser Equipment Business Website",
     status: "Live",
     description:
