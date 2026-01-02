@@ -47,7 +47,9 @@ export const Projects = () => {
           animate={isInView ? { opacity: 1 } : { opacity: 0 }}
           transition={{ duration: 0.6, delay: 0.3 }}
         >
-          {projectsData.map((proj, index) => (
+          {projectsData
+            .filter((proj) => !proj.name.toLowerCase().includes("cloudhelp desk"))
+            .map((proj, index) => (
             <ProjectCard
               key={proj.name}
               index={index}
